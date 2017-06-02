@@ -1,0 +1,1143 @@
+{
+    "repos": [
+        {
+            "createdAt": "2016-10-17T19:23:32Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk3MTE3MzE1MA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#3572A5",
+                            "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                            "name": "Python"
+                        },
+                        "size": 65425
+                    },
+                    {
+                        "node": {
+                            "color": "#e34c26",
+                            "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                            "name": "HTML"
+                        },
+                        "size": 33266
+                    },
+                    {
+                        "node": {
+                            "color": "#f1e05a",
+                            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                            "name": "JavaScript"
+                        },
+                        "size": 21011
+                    },
+                    {
+                        "node": {
+                            "color": "#563d7c",
+                            "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                            "name": "CSS"
+                        },
+                        "size": 126787
+                    },
+                    {
+                        "node": {
+                            "color": "#ecdebe",
+                            "id": "MDg6TGFuZ3VhZ2U1Njg=",
+                            "name": "Roff"
+                        },
+                        "size": 21800
+                    },
+                    {
+                        "node": {
+                            "color": "#2b7489",
+                            "id": "MDg6TGFuZ3VhZ2UyODc=",
+                            "name": "TypeScript"
+                        },
+                        "size": 28044
+                    }
+                ]
+            },
+            "name": "GitHR",
+            "owner": {
+                "login": "ALEXSSS"
+            },
+            "primaryLanguage": {
+                "color": "#563d7c",
+                "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                "name": "CSS"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 2,
+                "ball": 0.0017991904856719879,
+                "dels": 4,
+                "empty": [
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 33,
+                "total_commits": 2,
+                "weeks": [
+                    {
+                        "a": 1,
+                        "c": 1,
+                        "d": 3,
+                        "w": 1478995200
+                    },
+                    {
+                        "a": 1,
+                        "c": 1,
+                        "d": 1,
+                        "w": 1479600000
+                    }
+                ]
+            },
+            "updatedAt": "2017-06-01T06:21:45Z",
+            "url": "https://github.com/ALEXSSS/GitHR",
+            "watchers": {
+                "totalCount": 3
+            }
+        },
+        {
+            "createdAt": "2016-08-24T11:12:13Z",
+            "description": "interacrion with TeamCity api",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk2NjQ1NzQ1OA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#89e051",
+                            "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                            "name": "Shell"
+                        },
+                        "size": 1448
+                    },
+                    {
+                        "node": {
+                            "color": "#3572A5",
+                            "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                            "name": "Python"
+                        },
+                        "size": 5115
+                    }
+                ]
+            },
+            "name": "RESTinteraction",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": {
+                "color": "#3572A5",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 414,
+                "ball": 0.06454712110059127,
+                "dels": 172,
+                "empty": [
+                    1472947200,
+                    1473552000,
+                    1474156800,
+                    1474761600,
+                    1475366400,
+                    1475971200,
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 41,
+                "total_commits": 6,
+                "weeks": [
+                    {
+                        "a": 171,
+                        "c": 3,
+                        "d": 5,
+                        "w": 1471737600
+                    },
+                    {
+                        "a": 243,
+                        "c": 3,
+                        "d": 167,
+                        "w": 1472342400
+                    }
+                ]
+            },
+            "updatedAt": "2016-08-24T11:12:19Z",
+            "url": "https://github.com/kinmanz/RESTinteraction",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-08-05T09:21:47Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk2NTAwNjE0NA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 50297
+                    }
+                ]
+            },
+            "name": "SpringMVCBook",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 2135,
+                "ball": 0.3722951232549675,
+                "dels": 178,
+                "empty": [
+                    1471737600,
+                    1472342400,
+                    1472947200,
+                    1473552000,
+                    1474156800,
+                    1474761600,
+                    1475366400,
+                    1475971200,
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 44,
+                "total_commits": 12,
+                "weeks": [
+                    {
+                        "a": 291,
+                        "c": 3,
+                        "d": 96,
+                        "w": 1469923200
+                    },
+                    {
+                        "a": 1337,
+                        "c": 8,
+                        "d": 46,
+                        "w": 1470528000
+                    },
+                    {
+                        "a": 507,
+                        "c": 1,
+                        "d": 36,
+                        "w": 1471132800
+                    }
+                ]
+            },
+            "updatedAt": "2016-08-05T09:22:10Z",
+            "url": "https://github.com/kinmanz/SpringMVCBook",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-11-22T11:52:24Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk3NDQ2NzY0NA==",
+            "isFork": false,
+            "languages": {
+                "edges": []
+            },
+            "name": "NewMyTestRepo",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": null,
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 7,
+                "ball": 0.0012995776829942054,
+                "dels": 1,
+                "empty": [
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 28,
+                "total_commits": 7,
+                "weeks": [
+                    {
+                        "a": 7,
+                        "c": 7,
+                        "d": 1,
+                        "w": 1479600000
+                    }
+                ]
+            },
+            "updatedAt": "2016-11-22T11:52:24Z",
+            "url": "https://github.com/kinmanz/NewMyTestRepo",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-07-30T16:06:42Z",
+            "description": "Sampels of Mockito and PowerMock",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk2NDU1MjQyOA==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 9374
+                    }
+                ]
+            },
+            "name": "JUnitMockitoPowerMockTest",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 370,
+                "ball": 0.06957565097132805,
+                "dels": 32,
+                "empty": [
+                    1470528000,
+                    1471132800,
+                    1471737600,
+                    1472342400,
+                    1472947200,
+                    1473552000,
+                    1474156800,
+                    1474761600,
+                    1475366400,
+                    1475971200,
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 45,
+                "total_commits": 5,
+                "weeks": [
+                    {
+                        "a": 291,
+                        "c": 3,
+                        "d": 32,
+                        "w": 1469318400
+                    },
+                    {
+                        "a": 79,
+                        "c": 2,
+                        "d": 0,
+                        "w": 1469923200
+                    }
+                ]
+            },
+            "updatedAt": "2016-07-31T09:21:54Z",
+            "url": "https://github.com/kinmanz/JUnitMockitoPowerMockTest",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-10-21T17:54:51Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk3MTU4NjI0Mw==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#3572A5",
+                            "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                            "name": "Python"
+                        },
+                        "size": 70475
+                    },
+                    {
+                        "node": {
+                            "color": "#e34c26",
+                            "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                            "name": "HTML"
+                        },
+                        "size": 55766
+                    },
+                    {
+                        "node": {
+                            "color": "#f1e05a",
+                            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                            "name": "JavaScript"
+                        },
+                        "size": 36775
+                    },
+                    {
+                        "node": {
+                            "color": "#563d7c",
+                            "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                            "name": "CSS"
+                        },
+                        "size": 247463
+                    },
+                    {
+                        "node": {
+                            "color": "#ecdebe",
+                            "id": "MDg6TGFuZ3VhZ2U1Njg=",
+                            "name": "Roff"
+                        },
+                        "size": 21800
+                    },
+                    {
+                        "node": {
+                            "color": "#2b7489",
+                            "id": "MDg6TGFuZ3VhZ2UyODc=",
+                            "name": "TypeScript"
+                        },
+                        "size": 73295
+                    }
+                ]
+            },
+            "name": "GitHR",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": {
+                "color": "#563d7c",
+                "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                "name": "CSS"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 2982895,
+                "ball": 12.703793098911353,
+                "dels": 239995,
+                "empty": [
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800
+                ],
+                "len_weeks": 33,
+                "total_commits": 11,
+                "weeks": [
+                    {
+                        "a": 1,
+                        "c": 1,
+                        "d": 3,
+                        "w": 1478995200
+                    },
+                    {
+                        "a": 1,
+                        "c": 1,
+                        "d": 1,
+                        "w": 1479600000
+                    },
+                    {
+                        "a": 2982893,
+                        "c": 9,
+                        "d": 239991,
+                        "w": 1495929600
+                    }
+                ]
+            },
+            "updatedAt": "2017-06-01T06:34:59Z",
+            "url": "https://github.com/kinmanz/GitHR",
+            "watchers": {
+                "totalCount": 2
+            }
+        },
+        {
+            "createdAt": "2016-11-23T20:14:21Z",
+            "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "gitface.com",
+            "id": "MDEwOlJlcG9zaXRvcnk3NDYxMDYzNA==",
+            "isFork": false,
+            "languages": {
+                "edges": []
+            },
+            "name": "GitFaceCV-storage2",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": null,
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 179,
+                "ball": 0.034500706813055344,
+                "dels": 10,
+                "empty": [
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 28,
+                "total_commits": 21,
+                "weeks": [
+                    {
+                        "a": 179,
+                        "c": 21,
+                        "d": 10,
+                        "w": 1479600000
+                    }
+                ]
+            },
+            "updatedAt": "2016-11-23T20:14:21Z",
+            "url": "https://github.com/kinmanz/GitFaceCV-storage2",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-11-23T18:51:25Z",
+            "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "gitface.com",
+            "id": "MDEwOlJlcG9zaXRvcnk3NDYwNTEyMA==",
+            "isFork": false,
+            "languages": {
+                "edges": []
+            },
+            "name": "GitFaceCV-storage1",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": null,
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 2,
+                "ball": 0.0003999600053324894,
+                "dels": 0,
+                "empty": [
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 28,
+                "total_commits": 2,
+                "weeks": [
+                    {
+                        "a": 2,
+                        "c": 2,
+                        "d": 0,
+                        "w": 1479600000
+                    }
+                ]
+            },
+            "updatedAt": "2016-11-23T18:51:25Z",
+            "url": "https://github.com/kinmanz/GitFaceCV-storage1",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-11-26T08:30:43Z",
+            "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "gitface.com",
+            "id": "MDEwOlJlcG9zaXRvcnk3NDgxMzk1NA==",
+            "isFork": false,
+            "languages": {
+                "edges": []
+            },
+            "name": "GitFaceCV-storage3",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": null,
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 59,
+                "ball": 0.011168756587801327,
+                "dels": 6,
+                "empty": [
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 28,
+                "total_commits": 9,
+                "weeks": [
+                    {
+                        "a": 59,
+                        "c": 9,
+                        "d": 6,
+                        "w": 1479600000
+                    }
+                ]
+            },
+            "updatedAt": "2016-11-26T08:30:43Z",
+            "url": "https://github.com/kinmanz/GitFaceCV-storage3",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-09-16T22:06:30Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk2ODQxNzU0Ng==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#563d7c",
+                            "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                            "name": "CSS"
+                        },
+                        "size": 9348
+                    },
+                    {
+                        "node": {
+                            "color": "#e34c26",
+                            "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                            "name": "HTML"
+                        },
+                        "size": 41727
+                    },
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 112679
+                    },
+                    {
+                        "node": {
+                            "color": "#f1e05a",
+                            "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                            "name": "JavaScript"
+                        },
+                        "size": 6360
+                    }
+                ]
+            },
+            "name": "projs",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 66861,
+                "ball": 4.076848431167221,
+                "dels": 152,
+                "empty": [
+                    1474156800,
+                    1474761600,
+                    1475366400,
+                    1475971200,
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 38,
+                "total_commits": 2,
+                "weeks": [
+                    {
+                        "a": 66861,
+                        "c": 2,
+                        "d": 152,
+                        "w": 1473552000
+                    }
+                ]
+            },
+            "updatedAt": "2016-09-16T22:08:46Z",
+            "url": "https://github.com/kinmanz/projs",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-07-25T12:04:39Z",
+            "description": "iBatis Example",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk2NDEzMTA0MQ==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#b07219",
+                            "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                            "name": "Java"
+                        },
+                        "size": 4184
+                    }
+                ]
+            },
+            "name": "TestIBATIS",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": {
+                "color": "#b07219",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 248,
+                "ball": 0.04899494320077474,
+                "dels": 0,
+                "empty": [
+                    1469923200,
+                    1470528000,
+                    1471132800,
+                    1471737600,
+                    1472342400,
+                    1472947200,
+                    1473552000,
+                    1474156800,
+                    1474761600,
+                    1475366400,
+                    1475971200,
+                    1476576000,
+                    1477180800,
+                    1477785600,
+                    1478390400,
+                    1478995200,
+                    1479600000,
+                    1480204800,
+                    1480809600,
+                    1481414400,
+                    1482019200,
+                    1482624000,
+                    1483228800,
+                    1483833600,
+                    1484438400,
+                    1485043200,
+                    1485648000,
+                    1486252800,
+                    1486857600,
+                    1487462400,
+                    1488067200,
+                    1488672000,
+                    1489276800,
+                    1489881600,
+                    1490486400,
+                    1491091200,
+                    1491696000,
+                    1492300800,
+                    1492905600,
+                    1493510400,
+                    1494115200,
+                    1494720000,
+                    1495324800,
+                    1495929600
+                ],
+                "len_weeks": 45,
+                "total_commits": 1,
+                "weeks": [
+                    {
+                        "a": 248,
+                        "c": 1,
+                        "d": 0,
+                        "w": 1469318400
+                    }
+                ]
+            },
+            "updatedAt": "2016-07-25T12:05:16Z",
+            "url": "https://github.com/kinmanz/TestIBATIS",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2017-06-01T21:17:36Z",
+            "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "gitface.com",
+            "id": "MDEwOlJlcG9zaXRvcnk5MzEwMDI1NA==",
+            "isFork": false,
+            "languages": {
+                "edges": []
+            },
+            "name": "GitFaceCV-storage",
+            "owner": {
+                "login": "kinmanz"
+            },
+            "primaryLanguage": null,
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 50054,
+                "ball": 3.2923302696122545,
+                "dels": 16367,
+                "empty": [],
+                "len_weeks": 1,
+                "total_commits": 33,
+                "weeks": [
+                    {
+                        "a": 50054,
+                        "c": 33,
+                        "d": 16367,
+                        "w": 1495929600
+                    }
+                ]
+            },
+            "updatedAt": "2017-06-01T21:17:36Z",
+            "url": "https://github.com/kinmanz/GitFaceCV-storage",
+            "watchers": {
+                "totalCount": 1
+            }
+        }
+    ],
+    "summary": {
+        "total_adds": 3103226,
+        "total_ball": 20.677552829793346,
+        "total_commits": 111,
+        "total_dels": 256917
+    }
+}

@@ -1,1 +1,26 @@
-{"CVs": {}, "records": 0}
+{
+    "CVs": {
+        "kinmanz": {
+            "data_url": "https://raw.githubusercontent.com/yaguanodont/GitFaceCV-storage/master/CVs/kinmanz.GitFace.json",
+            "profile_info": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/15079022?v=3",
+                "bio": null,
+                "blog": "",
+                "company": null,
+                "created_at": "2015-10-11T19:57:58Z",
+                "email": "luga2012@yandex.ru",
+                "followers": 1,
+                "html_url": "https://github.com/kinmanz",
+                "location": "Saint-Petersburg",
+                "login": "kinmanz",
+                "name": "Serega Luchko ",
+                "organisations": [],
+                "public_repos": 29,
+                "repos_url": "https://github.com/kinmanz?tab=repositories"
+            },
+            "sha": "726dea74227a3a7956a8e0f5b13c191908ee406b",
+            "update_date": 1496433397000
+        }
+    },
+    "records": 1
+}

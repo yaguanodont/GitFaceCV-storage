@@ -30,7 +30,7 @@
                 "company": null,
                 "created_at": "2010-03-25T22:02:56Z",
                 "email": "mike@ocks.org",
-                "followers": 15239,
+                "followers": 15240,
                 "html_url": "https://github.com/mbostock",
                 "location": "San Francisco, CA",
                 "login": "mbostock",
@@ -55,8 +55,8 @@
                 "public_repos": 53,
                 "repos_url": "https://github.com/mbostock?tab=repositories"
             },
-            "sha": "8b9b6772acd27d70b85b335e901d269167563970",
-            "update_date": 1496439642000
+            "sha": "23f082462b77c9f0bb9ea03a25586db54c0ef726",
+            "update_date": 1496442739000
         }
     },
     "records": 2
